@@ -22,7 +22,7 @@ src="https://img.shields.io/github/followers/jayasurya12?logo=github&style=for-t
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/jayasurya12" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
-
+### Badges
 
 <b>My GitHub Stats</b>
 
@@ -31,7 +31,3 @@ src="https://img.shields.io/github/followers/jayasurya12?logo=github&style=for-t
 <a href="http://www.github.com/jayasurya12"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jayasurya12&stroke=0f172a&background=ffffff&ring=ef4444&fire=ef4444&currStreakNum=0f172a&currStreakLabel=ef4444&sideNums=0f172a&sideLabels=0f172a&dates=0f172a&hide_border=true" /></a>
 
 <a href="https://github.com/jayasurya12" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayasurya12&langs_count=10&title_color=ef4444&text_color=0f172a&icon_color=facc15&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
