@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-I well been learning to code for 5 years, after switching careers. I started with HTML, but have really found a passion for backend development.
+I well been learning to code for 3 years, after switching careers. I started with HTML, but have really found a passion for backend development.
 
 * 🌍  I'm based in Chennai, TamilNadu, india.
 * ✉️  You can contact me at [jayasurya12vj@gmail.com](mailto:jayasurya12vj@gmail.com)
