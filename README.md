@@ -3,13 +3,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Software Engineer
 -----------------
-
-I well been learning to code for 3 years, after switching careers. I started with HTML, but have really found a passion for backend development.
-
 * 🌍  I'm based in Chennai, TamilNadu, india.
 * ✉️  You can contact me at [jayasurya12vj@gmail.com](mailto:jayasurya12vj@gmail.com)
 * 🚀  I'm currently working on [Namlabs Technology Pvt.Ltd.](http://namlabs.com/)
-* 🧠  I'm learning DSA, Java, Kubernetes, Docker
+* 🧠  I'm learning DSA, Java, Docker, Kubernetes
 
 <a href="https://www.github.com/jayasurya12" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/jayasurya12?logo=github&style=for-the-badge&color=facc15&labelColor=ffffff" /></a>
