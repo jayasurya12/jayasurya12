@@ -5,7 +5,7 @@ Software Engineer
 -----------------
 * 🌍  I'm from in Chennai, TamilNadu, india.
 * ✉️  You can contact me at [jayasurya12vj@gmail.com](mailto:jayasurya12vj@gmail.com)
-* 🚀  I'm currently working on [Namlabs Technology Pvt.Ltd.](http://namlabs.com/)
+* 🚀  I'm currently working in [Namlabs Technology Pvt.Ltd.](http://namlabs.com/)
 * 🧠  I'm learning DSA, Java, Docker, Kubernetes
 
 <a href="https://www.github.com/jayasurya12" target="_blank" rel="noreferrer"><img
